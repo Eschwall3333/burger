@@ -1,0 +1,36 @@
+{
+    "development":{
+        "username":"ze30lvy5q2nciram",
+        "password":"jyg6dl0b3pfaw4t5",
+        "database":"p0qwtgj8fnnl51qu",
+        "host":"ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "dialect":"mysql"
+    },
+    "name": "burger",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1",
+      "mysql": "^2.17.1",
+      "mysql2": "^1.7.0",
+      "orm": "^5.0.4",
+      "sequelize": "^5.18.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Eschwall3333/burger.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Eschwall3333/burger/issues"
+    },
+    "homepage": "https://github.com/Eschwall3333/burger#readme"
+  }
